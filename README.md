@@ -7,17 +7,21 @@ A 2D layout proposal for a vitroconvector manufacturing facility, focused on pro
 
 ## Presentation
 
-**[Download the current A3 landscape presentation (PDF)](AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf)**
-
 ### 01 · Ground Floor + Exterior
 
 Site circulation, loading docks, production areas, storage, parking, and exterior spaces.
+
+<p align="center"><a href="pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/01_Ground_Floor_and_Exterior_A3_Landscape.png" alt="Ground floor and exterior site layout" width="100%" /></a></p>
+
+[Open PDF sheet](pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
 
 ### 02 · Ground Floor — Production Layout
 
 Production and support areas, including material storage, process stations, quality control, packaging, shipping control, and staff facilities.
 
 <p align="center"><a href="pdfs/02_Ground_Floor_Only_A3_Landscape.pdf"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/02_Ground_Floor_Only_A3_Landscape.png" alt="Ground-floor production layout" width="100%" /></a></p>
+
+[Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
 
 [Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
 
