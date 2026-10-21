@@ -54,12 +54,14 @@ The layout also represents receiving and shipping docks, personnel facilities, a
 
 ## Design Basis
 
-- **Reference production capacity:** approximately 14,400 units per year.
+- **Annual market size used as reference:** approximately 130,000 units.
+- **Target market share:** 5%.
+- **Corresponding annual production target:** approximately 6,500 units (130,000 × 5%).
 - **Site area used as a planning reference:** approximately 5,000 m².
 - **Software:** AutoCAD.
 - **Deliverable:** dimensioned 2D layout proposal.
 
-These are planning references from the academic project, not verified operating results.
+The 6,500-unit annual volume is a planning target derived from the project's market-share assumption, not a verified production result. The prior 14,400-unit figure has been removed because it does not match the agreed 5% target.
 
 ## Source Files and Limitations
 
