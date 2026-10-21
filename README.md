@@ -45,9 +45,7 @@ The first-floor drawing identifies the accounting office, Human Resources, comme
 | Site dimensions shown on the plan | 70 m × 45 m | Outer dimensions visible in the current site plan |
 | Site area derived from the plan | **Approximately 3,150 m²** | 70 × 45 m |
 
-The current portfolio uses **approximately 3,150 m²** as the site area because that is what the dimensioned plan shows. The initial 5,000 m² planning assumption is superseded for this version. The editable `.DWG` was not supplied, so the area is taken from the dimensions visible in the provided PDF rather than remeasured in the source drawing.
-
-The 6,500-unit annual volume is a target derived from the assumed market size and 5% share, not a verified production result.
+The layout is an academic proposal. The annual output of **6,500 units** is a planning target based on the reference market size and 5% share; it is not a measured production result.
 
 ## Design Scope
 
