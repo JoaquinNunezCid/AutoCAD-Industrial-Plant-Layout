@@ -1,61 +1,53 @@
 # Vitroconvector Manufacturing Plant Layout
 ### AutoCAD · Academic Mechatronics Engineering Project
 
-A 2D layout proposal for a vitroconvector manufacturing facility. The project focuses on functional space allocation, production flow, storage, receiving and shipping, staff facilities, administration, and site circulation.
+A 2D layout proposal for a vitroconvector manufacturing facility, focused on production flow, material storage, receiving and shipping, personnel facilities, and site circulation.
 
-> **Project status:** Academic design proposal. The facility is not represented as built or operational.
+> Academic design project. The facility is a proposal and is not represented as built or operational.
 
 ## Presentation
 
-**[Download the complete three-sheet A3 landscape presentation (PDF)](AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf)**
+**[Download the current A3 landscape presentation (PDF)](AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf)**
 
-The portfolio contains three coordinated A3 landscape sheets: ground floor with exterior/site circulation, ground-floor production layout, and first-floor administration layout.
+### 01 · Ground Floor + Exterior
 
-## 01 · Ground Floor + Exterior
-
-Overview of production areas, logistics circulation, loading docks, storage, and exterior areas. The upper-floor layout is excluded.
+Site circulation, loading docks, production areas, storage, parking, and exterior spaces.
 
 <p align="center"><a href="pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/01_Ground_Floor_and_Exterior_A3_Landscape.png" alt="Ground floor and exterior site layout" width="100%" /></a></p>
 
-[Open the A3 landscape PDF](pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
+[Open PDF sheet](pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
 
-## 02 · Ground Floor Only
+### 02 · Ground Floor — Production Layout
 
-A closer view of production and support areas, excluding the upper floor and exterior site areas.
+Production and support areas, including material storage, process stations, quality control, packaging, shipping control, and staff facilities.
 
 <p align="center"><a href="pdfs/02_Ground_Floor_Only_A3_Landscape.pdf"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/02_Ground_Floor_Only_A3_Landscape.png" alt="Ground-floor production layout" width="100%" /></a></p>
 
-[Open the A3 landscape PDF](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
-
-## 03 · First Floor — Administration & Staff Facilities
-
-The first-floor drawing identifies the accounting office, Human Resources, commercial office, administration office, presidency, meeting room, kitchen and dining room, bathrooms, cleaning/storage area, and stair/circulation areas. The source drawing does not provide verified room-by-room areas, so no room dimensions or areas are claimed.
-
-<p align="center"><a href="pdfs/03_First_Floor_Administration_A3_Landscape.pdf"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/03_First_Floor_Administration_A3_Landscape.png" alt="First-floor administration and staff facilities" width="100%" /></a></p>
-
-[Open the A3 landscape PDF](pdfs/03_First_Floor_Administration_A3_Landscape.pdf)
+[Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
 
 ## Design Basis
 
-| Parameter | Value | Interpretation |
-|---|---:|---|
-| Reference annual market | 130,000 units | Planning assumption used in coursework |
-| Target market share | 5% | Project objective |
-| Derived annual production target | **6,500 units/year** | 130,000 × 0.05 |
-| Site dimensions shown on the plan | 70 m × 45 m | Outer dimensions visible in the current site plan |
-| Site area derived from the plan | **Approximately 3,150 m²** | 70 × 45 m |
+| Parameter | Value |
+|---|---:|
+| Reference annual market | 130,000 units/year |
+| Target market share | 5% |
+| **Planned annual output** | **6,500 units/year** |
+| Site dimensions shown on the plan | 70 m × 45 m |
+| **Site area** | **3,150 m²** |
 
-The layout is an academic proposal. The annual output of **6,500 units** is a planning target based on the reference market size and 5% share; it is not a measured production result.
+The output target is calculated from the assumed reference market and intended market share. Both figures are planning assumptions for the academic project.
 
-## Design Scope
+## Process Flow
 
-The proposed production sequence includes raw-material storage, cutting, folding, perforating, surface preparation, painting, drying and staging, mechanical and electrical assembly, quality control and testing, packaging, order preparation, and finished-goods storage. The layout also represents receiving and shipping docks, personnel facilities, administration, and circulation.
+Raw-material storage → cutting → folding → perforating → surface preparation → painting → drying and staging → mechanical and electrical assembly → quality control → packaging and finished-goods storage.
 
-## Source Files and Limitations
+The layout also represents receiving and shipping docks, personnel facilities, administration areas, and truck circulation.
 
-The repository contains presentation PDFs, previews, original PDF exports, and the source items that were available. The supplied AutoCAD files included a `.BAK` backup and a `.DWT` template; an editable `.DWG` was not included. Those files are preserved in the repository but are not claimed as substitutes for a verified editable drawing.
+## Files and Scope
 
-This repository documents academic CAD work. It does not claim structural calculations, regulatory approval, construction, or operational validation.
+This repository includes the published presentation PDFs, previews, and the original PDFs supplied for the project. A `.BAK` backup and `.DWT` template are also retained in `source-files/`; an editable `.DWG` was not part of the supplied files.
+
+The drawings document an academic layout proposal. They do not claim regulatory approval, construction, or operational validation.
 
 ## Author
 
