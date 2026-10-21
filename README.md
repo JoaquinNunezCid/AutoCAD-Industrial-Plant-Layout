@@ -1,7 +1,5 @@
 # Vitroconvector Manufacturing Plant Layout
 
-## Presentation
-
 A 2D layout proposal for a vitroconvector manufacturing facility. The project focuses on functional space allocation, production flow, storage, receiving and shipping, staff facilities, administration, and site circulation.
 
 ## Design Basis
