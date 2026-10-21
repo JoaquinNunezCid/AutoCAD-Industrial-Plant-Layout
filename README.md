@@ -23,6 +23,14 @@ Production and support areas, including material storage, process stations, qual
 
 [Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
 
+### 03 · First Floor — Administration & Staff Facilities
+
+Administrative offices, meeting room, kitchen and dining area, bathrooms, storage, and circulation.
+
+<p align="center"><a href="previews/03_First_Floor_Administration_A3_Landscape.jpg"><img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/03_First_Floor_Administration_A3_Landscape.jpg" alt="First-floor administration and staff facilities layout" width="420" /></a></p>
+
+[Open the first-floor layout preview](previews/03_First_Floor_Administration_A3_Landscape.jpg)
+
 ## Design Basis
 
 | Parameter | Value |
