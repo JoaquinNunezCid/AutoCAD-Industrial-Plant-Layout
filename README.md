@@ -23,8 +23,6 @@ Production and support areas, including material storage, process stations, qual
 
 [Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
 
-[Open PDF sheet](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
-
 ## Design Basis
 
 | Parameter | Value |
