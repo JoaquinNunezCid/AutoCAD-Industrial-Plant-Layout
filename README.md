@@ -61,7 +61,7 @@ The layout also represents receiving and shipping docks, personnel facilities, a
 - **Software:** AutoCAD.
 - **Deliverable:** dimensioned 2D layout proposal.
 
-The 6,500-unit annual volume is a planning target derived from the project's market-share assumption, not a verified production result. The prior 14,400-unit figure has been removed because it does not match the agreed 5% target.
+The 6,500-unit annual volume is a planning target derived from the project's market-share assumption, not a verified production result.
 
 ## Source Files and Limitations
 
