@@ -1,19 +1,74 @@
-# Vitroconvectors Manufacturing Plant — AutoCAD Layout
+# Vitroconvector Manufacturing Plant Layout
+### AutoCAD · Academic Mechatronics Engineering Project
 
-Academic Mechatronics Engineering project documenting a 2D proposed manufacturing plant layout.
+A 2D layout proposal for a manufacturing facility designed for the production of vitroconvectors. The project focuses on functional space allocation, production flow, storage, receiving and shipping, and site circulation.
 
-## Presentation Sheets
-- `pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf` — ground floor with exterior logistics and site circulation; excludes the upper-floor layout.
-- `pdfs/02_Ground_Floor_Only_A3_Landscape.pdf` — production ground floor only; excludes the upper-floor layout.
-- `AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf` — both presentation sheets in one PDF.
+> **Project status:** Academic design proposal. The facility is not represented as built or operational.
 
-## Scope
-The plan represents proposed production and support areas, including raw-material storage, cutting, folding, perforating, surface preparation, painting, drying/staging, mechanical and electrical assembly, quality control, packaging, finished-goods storage, receiving and shipping, staff facilities, and circulation.
+## Presentation
 
-## Files
-The `originals/` folder preserves the uploaded PDFs. The presentation PDFs rotate the original drawings to landscape A3 and add a title/footer system. Original plan geometry and dimensions were retained; the presentation process does not constitute engineering validation or modify the underlying design.
+**[Download the complete A3 landscape presentation (PDF)](AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf)**
 
-The available source upload included a `.BAK` and `.DWT` but did not include a `.DWG` file. Therefore this package does not claim to include an editable source drawing.
+The presentation includes two sheets, prepared from the supplied AutoCAD PDF exports. The plan geometry and dimensions shown in the source PDFs were retained.
 
-## Project Status
-Academic design proposal; not a built or operational facility.
+## 01 · Ground Floor + Exterior
+
+Overview of the ground-floor arrangement and surrounding site, including logistics circulation, loading docks, storage, production areas, and exterior space. The upper-floor layout is excluded.
+
+<p align="center">
+  <a href="pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf">
+    <img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/01_Ground_Floor_and_Exterior_A3_Landscape.png" alt="Ground floor and exterior site layout" width="100%" />
+  </a>
+</p>
+
+[Open the A3 landscape PDF](pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
+
+## 02 · Ground Floor Only
+
+A closer view of the production floor, excluding the upper floor and exterior site areas. It shows the proposed production departments, material storage, receiving and shipping control, staff facilities, and reception.
+
+<p align="center">
+  <a href="pdfs/02_Ground_Floor_Only_A3_Landscape.pdf">
+    <img src="https://raw.githubusercontent.com/JoaquinNunezCid/AutoCAD-Industrial-Plant-Layout/main/previews/02_Ground_Floor_Only_A3_Landscape.png" alt="Ground-floor production layout" width="100%" />
+  </a>
+</p>
+
+[Open the A3 landscape PDF](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
+
+## Design Scope
+
+The proposed production sequence includes:
+
+1. Raw-material storage
+2. Cutting
+3. Folding
+4. Perforating
+5. Surface preparation
+6. Painting
+7. Drying and staging
+8. Mechanical and electrical assembly
+9. Quality control and testing
+10. Packaging, order preparation, and finished-goods storage
+
+The layout also represents receiving and shipping docks, personnel facilities, administration, and site circulation.
+
+## Design Basis
+
+- **Reference production capacity:** approximately 14,400 units per year.
+- **Site area used as a planning reference:** approximately 5,000 m².
+- **Software:** AutoCAD.
+- **Deliverable:** dimensioned 2D layout proposal.
+
+These are planning references from the academic project, not verified operating results.
+
+## Source Files and Limitations
+
+The repository includes the presentation PDFs, PDF previews, and the source files that were available for sharing. The supplied AutoCAD files included a `.BAK` backup and a `.DWT` template; an editable `.DWG` was not included. The `.BAK` and `.DWT` files are preserved in `source-files/` but are not claimed as substitutes for a verified editable drawing.
+
+This repository documents academic CAD work. It does not claim structural calculations, regulatory approval, construction, or operational validation.
+
+## Author
+
+**Joaquín Núñez Cid** · Mechatronics Engineering Student
+
+[GitHub Profile](https://github.com/JoaquinNunezCid) · [LinkedIn](https://www.linkedin.com/in/nunezcidjoaquin/)
