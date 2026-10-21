@@ -1,7 +1,4 @@
 # Vitroconvector Manufacturing Plant Layout
-### AutoCAD · Academic Mechatronics Engineering Project
-
-> **Project status:** Academic design proposal. The facility is not represented as built or operational.
 
 ## Presentation
 
