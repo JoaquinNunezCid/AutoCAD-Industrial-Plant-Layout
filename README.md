@@ -4,8 +4,8 @@ Academic Mechatronics Engineering project documenting a 2D layout proposal for a
 
 ## Presentation Sheets
 
-- [Ground Floor + Exterior — A3 Landscape (PDF)](pdfs/01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
-- [Ground Floor Only — A3 Landscape (PDF)](pdfs/02_Ground_Floor_Only_A3_Landscape.pdf)
+- [Ground Floor + Exterior — A3 Landscape (PDF)](01_Ground_Floor_and_Exterior_A3_Landscape.pdf)
+- [Ground Floor Only — A3 Landscape (PDF)](02_Ground_Floor_Only_A3_Landscape.pdf)
 - [Complete two-sheet presentation — A3 Landscape (PDF)](AutoCAD_Industrial_Plant_Layout_Portfolio_A3_Landscape.pdf)
 
 ## Project Scope
