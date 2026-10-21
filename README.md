@@ -42,9 +42,10 @@ The first-floor drawing identifies the accounting office, Human Resources, comme
 | Reference annual market | 130,000 units | Planning assumption used in coursework |
 | Target market share | 5% | Project objective |
 | Derived annual production target | **6,500 units/year** | 130,000 × 0.05 |
-| Site area discussed during planning | Approximately 5,000 m² | Initial planning brief; not reconciled with the dimensioned site plan |
+| Site dimensions shown on the plan | 70 m × 45 m | Outer dimensions visible in the current site plan |
+| Site area derived from the plan | **Approximately 3,150 m²** | 70 × 45 m |
 
-**Area verification note:** the supplied site-plan PDF shows outer dimension labels of 70,000 mm and 45,000 mm. If those dimensions define the full site boundary, the implied area is 70 m × 45 m = **3,150 m²**, which differs from the 5,000 m² planning assumption. The editable `.DWG` was not supplied, so the discrepancy cannot be resolved from the current files. Treat the site area as provisional until the dimensions are checked in the source drawing.
+The current portfolio uses **approximately 3,150 m²** as the site area because that is what the dimensioned plan shows. The initial 5,000 m² planning assumption is superseded for this version. The editable `.DWG` was not supplied, so the area is taken from the dimensions visible in the provided PDF rather than remeasured in the source drawing.
 
 The 6,500-unit annual volume is a target derived from the assumed market size and 5% share, not a verified production result.
 
